@@ -1,0 +1,36 @@
+{
+  "short_name": "Reflectify",
+  "name": "Reflectify - Daily Reflection & Growth",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#5D5C61",
+  "background_color": "#EDEDED",
+  "description": "Reflectify is a daily reflection app to track 3 good things, 3 bad things, and 1 memorable moment each day for self-growth and mindfulness.",
+  "lang": "en-US"
+}
